@@ -1,3 +1,5 @@
-# OOP
+# OOP & Other Software Engineering Examples
 
-In this project I have implemented the Multilevel inhertance
+1. Multilevel Inheritence
+2. Polymorphism
+3. Singleton
